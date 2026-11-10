@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jose L. Rios Jr.
 
-<!--
-**P8triot329/P8triot329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity analyst focused on governance, risk, and compliance, and a Marine Corps veteran.
+Graduate of the Rapid Ascent Cybersecurity Analyst Program at City University of Seattle (2026).
 
-Here are some ideas to get you started:
+## Home lab
+A VirtualBox lab I use for practice:
+- Windows Server Active Directory domain controller
+- Wazuh SIEM (Ubuntu)
+- RHEL 9 and Kali Linux VMs
+- Ubuntu Docker host running Jenkins, OWASP DefectDojo, and Greenbone/OpenVAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coming soon
+- Home lab build guide
+- Capstone write-ups: risk assessment, SOC build, and threat intelligence
+
+LinkedIn: linkedin.com/in/joserios369
